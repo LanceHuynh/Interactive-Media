@@ -1,0 +1,10 @@
+ What kind of problems web sockets solve? In what kind of situations you should use them? 
+
+- web sockets allow infomation to be transmitted with low latency, possible occassions in which web sockets could be used includes but is not restricted to:
+
+-Multiplayer online games
+-Chat applications
+-Live sports ticker
+-Realtime updating social streams
+
+In short, services that demand realtime interactions.

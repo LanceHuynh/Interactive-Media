@@ -1,0 +1,33 @@
+html,
+body {
+	height: 100%;
+	box-sizing: border-box;
+}
+
+body { 
+	padding: 10%; 
+	padding-top: 5%;
+	font-size: 10px;
+}
+
+#header {
+	position: relative;
+
+	border-radius: 5px;
+	width: 100%;
+	background-color: #c0c0c0;
+	padding: 3%;
+
+	font-size: 3em;
+	text-align: center;
+
+}
+
+#canvas {
+	position: relative;
+	top: 10%;
+	left: 50%;
+	transform: translateX(-50%);
+
+	background-color: #dcdcdc;
+}

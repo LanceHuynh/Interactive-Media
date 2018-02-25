@@ -1,0 +1,13 @@
+What is thE purpose of the RWD? Why it is used? How things are done before RWD? What is the difference?
+
+- Smartphones are becoming increasingly popular, thus pushes demands for websites that work well in small viewport, the current technology faces difficulties solving this problem, RWD was meant to be the answer to the situation. Before the concept of RWD, to a degree, web pages are responsive (using fluid grid and flexible images), for example being able to adapt and render correctly as the browser is resized, but it is also implied in the article, when such webpages are used outside of the original environment it was designed for, in this case desktop view, they stop working properly.
+
+How css media queries can help you building responsive website?
+
+-Css media queries define breakpoints upon hitting which allows programmers to change the visual behaviours of the webpages to suit the need of the situation.
+
+Why to use em (font) sizing for example margins?
+
+-em is a relative measuring unit which scales with the current font-size attribute of elements, allows easy control across huge amount of code.
+
+-Bootstrap is a popular framework for a responsive website. At component level, CSS grid defines an  easy way to structure your webpages, while flex is capable of replacing the float method, which can cause headache since it pulls element outside of the normal flow.  

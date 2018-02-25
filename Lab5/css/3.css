@@ -1,0 +1,17 @@
+html,
+body {
+	height: 100%;
+	box-sizing: border-box;
+}
+
+body { 
+	font-size: 10px; 
+	padding-left: 10%;
+}
+
+#main {
+	font-size: 3em;
+}
+#list {
+	font-size: 1.5em;
+}

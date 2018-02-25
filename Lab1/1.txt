@@ -1,0 +1,16 @@
+HTML - stands for HyperText Markup Language. 
+Hypertext is text that references other pages made with hypertext. When clicked on, hypertext allows the user to access the referenced text or webpage. HTML is used to embed those hyperlink within web pages. Hyperlinks allow the user to move easily within web pages and between websites stored on different servers. Simply put, HTML is the skeleton of the web page, it's content on the page is styled by CSS and manipulated by Javascript. It uses tags to declare its structure. Browsers do not display the HTML tags, but use them to render the content of the page.
+
+CSS - stands for Cascading Style Sheets.
+It determines how HTML elements are displayed on the browser or other media. CSS has the ability to control multiple web pages at once.
+
+Javascript - a popular object-oriented scripting language.
+It is most used to manipulate the behavior, structure, and content of HTML pages through supplying objects capable of dynamicaly control DOM elements.
+
+HTTP - stands for Hypertext transfer protocol.
+It is the lowest level protocol for the World Wide Web, defines how messages should be formatted and transmitted. It also provides guidelines for webserver in respect to responding to various situation.
+
+HTML5 - The lastest of standards which defines HTML.
+It is the fifth version of the HTML standard, providing new features as well as a wider sematic element range.
+
+Dynamic HTML - refers to a collection of tools, including HTML, which in combination creates a product with improved interactivity and animation, compared to that created with pure HTML.

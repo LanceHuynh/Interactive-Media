@@ -1,0 +1,17 @@
+1.What you can do with the jQuery? 
+-Easily navigate a document, select DOM elements, create animations, handle events, and develop Ajax applications. jQuery also supplies with ways for developers to create plug-ins on top of the JavaScript library.
+
+2.How it can help you as web developer?
+
+-Significantly reduce the time spend on low-level interaction and instead let developers focus on more in-depth features.
+
+3.If you think our earlier participant list app, in what kind of issues you could use jQuery?
+
+I could have just written the code
+
+$( "<p>Text</p>" ).appendTo( "#main" ); instead of having to us document.createElement , document.createTextNode and appendChild.
+
+4.What are CDNs? What kind of bene?ts you get if you use them?
+
+- A group of servers allocated at different locations. The content of these servers is similar, allow data requests to be fulfilled on the servers closest to the end-users, ultimately results in efficient, and low-latency responses from all parties.
+

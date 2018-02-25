@@ -1,0 +1,3 @@
+ HTML5 specification introduces new semantic elements. One of them is a figure element. Can you say why you should use it in addition to standard img elements? 
+
+-figure tags provides a more semantic way to add captions to images that otherwise would require the excessive use of div tags, thus supplies the html page more of the much needed readability. Moreover, adding caption to images using figure tags is expected to to involve less hassle than that of div tags.
