@@ -1,4 +1,4 @@
-What is thE purpose of the RWD? Why it is used? How things are done before RWD? What is the difference?
+What is the purpose of the RWD? Why it is used? How things are done before RWD? What is the difference?
 
 - Smartphones are becoming increasingly popular, thus pushes demands for websites that work well in small viewport, the current technology faces difficulties solving this problem, RWD was meant to be the answer to the situation. Before the concept of RWD, to a degree, web pages are responsive (using fluid grid and flexible images), for example being able to adapt and render correctly as the browser is resized, but it is also implied in the article, when such webpages are used outside of the original environment it was designed for, in this case desktop view, they stop working properly.
 
